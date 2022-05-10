@@ -1,15 +1,10 @@
 
 
 <h1 align="center">
-  Dev.UI template 
+  NFT-Gallery
 </h1>
 
-[Deployed link](https://pixi-world-landing-page.pages.dev/).         [Design link](https://www.figma.com/community/file/1085183523900265062/Pixi---World)
-![Logoipsum-landing-page](https://user-images.githubusercontent.com/62591080/162624976-e6744bdb-9add-4f40-9514-e279da7275ce.png)
-
-
-[Open In CodeSandbox](https://githubbox.com/kumard3/dev-ui-templates/tree/main/template-7)
-
+![Screenshot from 2022-05-10 23-29-02](https://user-images.githubusercontent.com/93553700/167707521-76a4fecf-abec-4895-8dd9-845933d31604.png)
 
 ## 🚀 Getting Started
 
