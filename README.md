@@ -7,7 +7,7 @@
 
 ![Screenshot from 2022-05-11 00-19-33](https://user-images.githubusercontent.com/93553700/167715032-674076ec-5481-4db3-bbc1-553eb000c9c7.png)
 
-## 🚀 Getting Started
+## 🚀 Explore NFT's Projects
 
 First, run the development server:
 
