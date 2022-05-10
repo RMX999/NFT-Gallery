@@ -24,7 +24,7 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## ✍ technology
 
-[HardHat](https://hardhat.org/) For deploing smart contract for creators NFT
+[HardHat](https://hardhat.org/) For deploing smart contract for creators NFT <br>
 [Coin File](https://coinfiles.com/) Storing NFTs metadata
 [ChainLink](https://chain.link/) Scraping data from blockchain
 [Poligon](https://polygonscan.com/) Donations for listed NFT's Projects
