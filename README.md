@@ -22,11 +22,17 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-## ✍ Customizing Tailwind Typography
+## ✍ technology
 
-[Tailwind Typography](https://github.com/tailwindlabs/tailwindcss-typography) is an official tailwind plugin that provides a set of `prose` classes to add beautiful typographic defaults to any vanilla HTML you don't control (like HTML rendered from Markdown, or pulled from a CMS).
+[HardHat](https://hardhat.org/) For deploing smart contract for creators NFT
+[Coin File](https://coinfiles.com/) Storing NFTs metadata
+[ChainLink](https://chain.link/) Scraping data from blockchain
+[Poligon](https://polygonscan.com/) Donations for listed NFT's Projects
+[Transak](https://transak.com/) From fiat to crypto
 
-To customize the defaults provided by the plugin, add the overrides under the `typography` key in the theme section of the `tailwind.config.js` file. Refer to its [default styles](https://github.com/tailwindlabs/tailwindcss-typography/blob/master/src/styles.js) for more in-depth examples.
+
+
+
 
 For more information, please check out Tailwind Typography's [customization section](https://github.com/tailwindlabs/tailwindcss-typography#customization).
 
