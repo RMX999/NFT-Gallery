@@ -29,31 +29,3 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 [ChainLink](https://chain.link/) Scraping data from blockchain <br>
 [Poligon](https://polygonscan.com/) Donations for listed NFT's Projects <br>
 [Transak](https://transak.com/) From fiat to crypto <br>
-
-
-
-
-
-For more information, please check out Tailwind Typography's [customization section](https://github.com/tailwindlabs/tailwindcss-typography#customization).
-
-## 📖 Learn More
-
-### Next.js
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-### Tailwind CSS
-
-To learn more about Tailwind CSS, take a look at the following resources:
-
-- [Tailwind Documentation](https://tailwindcss.com/) - learn about Tailwind CSS features and API.
-
-
-## ☁ Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kumard3/dev-ui-templates/tree/main/template-7)  [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/kumard3/dev-ui-templates/tree/main/template-7)
