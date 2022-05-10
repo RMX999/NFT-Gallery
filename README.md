@@ -4,7 +4,8 @@
   NFT-Gallery
 </h1>
 
-![Screenshot from 2022-05-10 23-29-02](https://user-images.githubusercontent.com/93553700/167707521-76a4fecf-abec-4895-8dd9-845933d31604.png)
+
+![Screenshot from 2022-05-11 00-19-33](https://user-images.githubusercontent.com/93553700/167715032-674076ec-5481-4db3-bbc1-553eb000c9c7.png)
 
 ## 🚀 Getting Started
 
